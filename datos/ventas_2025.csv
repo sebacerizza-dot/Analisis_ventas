@@ -1,0 +1,1001 @@
+fecha,producto,cantidad,precio_unitario,precio_total
+2025-01-01,Mouse Ergonómico,5,45.0,225.0
+2025-01-01,Auriculares Bluetooth,4,120.0,480.0
+2025-01-01,Teclado Mecánico,3,85.0,255.0
+2025-01-02,Auriculares Bluetooth,1,120.0,120.0
+2025-01-02,Auriculares Bluetooth,3,120.0,360.0
+2025-01-02,Monitor 4K,3,350.0,1050.0
+2025-01-03,Teclado Mecánico,5,85.0,425.0
+2025-01-03,Teclado Mecánico,4,85.0,340.0
+2025-01-03,Teclado Mecánico,2,85.0,170.0
+2025-01-04,Auriculares Bluetooth,4,120.0,480.0
+2025-01-04,Mouse Ergonómico,4,45.0,180.0
+2025-01-05,Teclado Mecánico,3,85.0,255.0
+2025-01-05,Disco Externo 1TB,4,75.0,300.0
+2025-01-05,Auriculares Bluetooth,1,120.0,120.0
+2025-01-06,Monitor 4K,3,350.0,1050.0
+2025-01-06,Mouse Ergonómico,1,45.0,45.0
+2025-01-06,Disco Externo 1TB,2,75.0,150.0
+2025-01-07,Disco Externo 1TB,3,75.0,225.0
+2025-01-07,Monitor 4K,2,350.0,700.0
+2025-01-07,Mouse Ergonómico,3,45.0,135.0
+2025-01-08,Auriculares Bluetooth,5,120.0,600.0
+2025-01-08,Laptop Pro,4,1200.0,4800.0
+2025-01-09,Mouse Ergonómico,5,45.0,225.0
+2025-01-09,Monitor 4K,2,350.0,700.0
+2025-01-09,Disco Externo 1TB,4,75.0,300.0
+2025-01-10,Auriculares Bluetooth,3,120.0,360.0
+2025-01-10,Mouse Ergonómico,4,45.0,180.0
+2025-01-10,Laptop Pro,1,1200.0,1200.0
+2025-01-11,Laptop Pro,4,1200.0,4800.0
+2025-01-11,Teclado Mecánico,1,85.0,85.0
+2025-01-11,Teclado Mecánico,4,85.0,340.0
+2025-01-12,Monitor 4K,1,350.0,350.0
+2025-01-12,Mouse Ergonómico,2,45.0,90.0
+2025-01-13,Mouse Ergonómico,5,45.0,225.0
+2025-01-13,Disco Externo 1TB,3,75.0,225.0
+2025-01-13,Disco Externo 1TB,4,75.0,300.0
+2025-01-14,Disco Externo 1TB,5,75.0,375.0
+2025-01-14,Teclado Mecánico,3,85.0,255.0
+2025-01-14,Mouse Ergonómico,3,45.0,135.0
+2025-01-15,Mouse Ergonómico,1,45.0,45.0
+2025-01-15,Laptop Pro,2,1200.0,2400.0
+2025-01-15,Teclado Mecánico,2,85.0,170.0
+2025-01-16,Auriculares Bluetooth,5,120.0,600.0
+2025-01-16,Teclado Mecánico,2,85.0,170.0
+2025-01-17,Auriculares Bluetooth,4,120.0,480.0
+2025-01-17,Laptop Pro,2,1200.0,2400.0
+2025-01-17,Monitor 4K,5,350.0,1750.0
+2025-01-18,Mouse Ergonómico,2,45.0,90.0
+2025-01-18,Laptop Pro,4,1200.0,4800.0
+2025-01-18,Mouse Ergonómico,1,45.0,45.0
+2025-01-19,Disco Externo 1TB,5,75.0,375.0
+2025-01-19,Monitor 4K,1,350.0,350.0
+2025-01-19,Monitor 4K,1,350.0,350.0
+2025-01-20,Laptop Pro,1,1200.0,1200.0
+2025-01-20,Monitor 4K,3,350.0,1050.0
+2025-01-21,Auriculares Bluetooth,3,120.0,360.0
+2025-01-21,Monitor 4K,1,350.0,350.0
+2025-01-21,Mouse Ergonómico,5,45.0,225.0
+2025-01-22,Mouse Ergonómico,4,45.0,180.0
+2025-01-22,Mouse Ergonómico,4,45.0,180.0
+2025-01-22,Mouse Ergonómico,2,45.0,90.0
+2025-01-23,Auriculares Bluetooth,5,120.0,600.0
+2025-01-23,Teclado Mecánico,3,85.0,255.0
+2025-01-23,Disco Externo 1TB,1,75.0,75.0
+2025-01-24,Laptop Pro,2,1200.0,2400.0
+2025-01-24,Mouse Ergonómico,4,45.0,180.0
+2025-01-25,Monitor 4K,3,350.0,1050.0
+2025-01-25,Mouse Ergonómico,3,45.0,135.0
+2025-01-25,Monitor 4K,1,350.0,350.0
+2025-01-26,Disco Externo 1TB,4,75.0,300.0
+2025-01-26,Disco Externo 1TB,5,75.0,375.0
+2025-01-26,Disco Externo 1TB,3,75.0,225.0
+2025-01-27,Monitor 4K,1,350.0,350.0
+2025-01-27,Mouse Ergonómico,5,45.0,225.0
+2025-01-27,Disco Externo 1TB,4,75.0,300.0
+2025-01-28,Auriculares Bluetooth,3,120.0,360.0
+2025-01-28,Monitor 4K,5,350.0,1750.0
+2025-01-29,Monitor 4K,5,350.0,1750.0
+2025-01-29,Mouse Ergonómico,5,45.0,225.0
+2025-01-29,Monitor 4K,3,350.0,1050.0
+2025-01-30,Monitor 4K,3,350.0,1050.0
+2025-01-30,Disco Externo 1TB,2,75.0,150.0
+2025-01-30,Mouse Ergonómico,4,45.0,180.0
+2025-01-31,Disco Externo 1TB,1,75.0,75.0
+2025-01-31,Disco Externo 1TB,5,75.0,375.0
+2025-01-31,Mouse Ergonómico,2,45.0,90.0
+2025-02-01,Laptop Pro,1,1200.0,1200.0
+2025-02-01,Disco Externo 1TB,2,75.0,150.0
+2025-02-02,Auriculares Bluetooth,3,120.0,360.0
+2025-02-02,Auriculares Bluetooth,5,120.0,600.0
+2025-02-02,Monitor 4K,1,350.0,350.0
+2025-02-03,Auriculares Bluetooth,1,120.0,120.0
+2025-02-03,Monitor 4K,1,350.0,350.0
+2025-02-03,Laptop Pro,1,1200.0,1200.0
+2025-02-04,Mouse Ergonómico,1,45.0,45.0
+2025-02-04,Mouse Ergonómico,2,45.0,90.0
+2025-02-04,Mouse Ergonómico,5,45.0,225.0
+2025-02-05,Auriculares Bluetooth,3,120.0,360.0
+2025-02-05,Laptop Pro,3,1200.0,3600.0
+2025-02-06,Auriculares Bluetooth,3,120.0,360.0
+2025-02-06,Auriculares Bluetooth,3,120.0,360.0
+2025-02-06,Laptop Pro,2,1200.0,2400.0
+2025-02-07,Laptop Pro,4,1200.0,4800.0
+2025-02-07,Laptop Pro,5,1200.0,6000.0
+2025-02-07,Laptop Pro,1,1200.0,1200.0
+2025-02-08,Mouse Ergonómico,4,45.0,180.0
+2025-02-08,Teclado Mecánico,3,85.0,255.0
+2025-02-08,Teclado Mecánico,4,85.0,340.0
+2025-02-09,Laptop Pro,5,1200.0,6000.0
+2025-02-09,Teclado Mecánico,1,85.0,85.0
+2025-02-10,Teclado Mecánico,1,85.0,85.0
+2025-02-10,Laptop Pro,5,1200.0,6000.0
+2025-02-10,Teclado Mecánico,5,85.0,425.0
+2025-02-11,Auriculares Bluetooth,3,120.0,360.0
+2025-02-11,Monitor 4K,1,350.0,350.0
+2025-02-11,Monitor 4K,4,350.0,1400.0
+2025-02-12,Laptop Pro,2,1200.0,2400.0
+2025-02-12,Mouse Ergonómico,2,45.0,90.0
+2025-02-12,Laptop Pro,5,1200.0,6000.0
+2025-02-13,Mouse Ergonómico,3,45.0,135.0
+2025-02-13,Monitor 4K,2,350.0,700.0
+2025-02-14,Laptop Pro,1,1200.0,1200.0
+2025-02-14,Disco Externo 1TB,5,75.0,375.0
+2025-02-14,Auriculares Bluetooth,4,120.0,480.0
+2025-02-15,Teclado Mecánico,5,85.0,425.0
+2025-02-15,Mouse Ergonómico,4,45.0,180.0
+2025-02-15,Disco Externo 1TB,5,75.0,375.0
+2025-02-16,Teclado Mecánico,5,85.0,425.0
+2025-02-16,Teclado Mecánico,5,85.0,425.0
+2025-02-17,Laptop Pro,4,1200.0,4800.0
+2025-02-17,Teclado Mecánico,4,85.0,340.0
+2025-02-17,Auriculares Bluetooth,5,120.0,600.0
+2025-02-18,Disco Externo 1TB,2,75.0,150.0
+2025-02-18,Teclado Mecánico,3,85.0,255.0
+2025-02-18,Laptop Pro,3,1200.0,3600.0
+2025-02-19,Auriculares Bluetooth,3,120.0,360.0
+2025-02-19,Monitor 4K,4,350.0,1400.0
+2025-02-19,Disco Externo 1TB,4,75.0,300.0
+2025-02-20,Teclado Mecánico,2,85.0,170.0
+2025-02-20,Laptop Pro,3,1200.0,3600.0
+2025-02-21,Monitor 4K,3,350.0,1050.0
+2025-02-21,Monitor 4K,5,350.0,1750.0
+2025-02-21,Mouse Ergonómico,4,45.0,180.0
+2025-02-22,Auriculares Bluetooth,3,120.0,360.0
+2025-02-22,Teclado Mecánico,2,85.0,170.0
+2025-02-22,Laptop Pro,2,1200.0,2400.0
+2025-02-23,Mouse Ergonómico,3,45.0,135.0
+2025-02-23,Auriculares Bluetooth,4,120.0,480.0
+2025-02-23,Mouse Ergonómico,2,45.0,90.0
+2025-02-24,Disco Externo 1TB,5,75.0,375.0
+2025-02-24,Auriculares Bluetooth,2,120.0,240.0
+2025-02-25,Auriculares Bluetooth,1,120.0,120.0
+2025-02-25,Teclado Mecánico,1,85.0,85.0
+2025-02-25,Auriculares Bluetooth,4,120.0,480.0
+2025-02-26,Mouse Ergonómico,3,45.0,135.0
+2025-02-26,Auriculares Bluetooth,4,120.0,480.0
+2025-02-26,Teclado Mecánico,4,85.0,340.0
+2025-02-27,Teclado Mecánico,4,85.0,340.0
+2025-02-27,Disco Externo 1TB,4,75.0,300.0
+2025-02-27,Mouse Ergonómico,5,45.0,225.0
+2025-02-28,Monitor 4K,5,350.0,1750.0
+2025-02-28,Monitor 4K,2,350.0,700.0
+2025-03-01,Auriculares Bluetooth,1,120.0,120.0
+2025-03-01,Disco Externo 1TB,4,75.0,300.0
+2025-03-01,Laptop Pro,2,1200.0,2400.0
+2025-03-02,Auriculares Bluetooth,1,120.0,120.0
+2025-03-02,Disco Externo 1TB,3,75.0,225.0
+2025-03-02,Mouse Ergonómico,5,45.0,225.0
+2025-03-03,Mouse Ergonómico,1,45.0,45.0
+2025-03-03,Mouse Ergonómico,3,45.0,135.0
+2025-03-03,Mouse Ergonómico,1,45.0,45.0
+2025-03-04,Mouse Ergonómico,5,45.0,225.0
+2025-03-04,Disco Externo 1TB,5,75.0,375.0
+2025-03-05,Disco Externo 1TB,2,75.0,150.0
+2025-03-05,Teclado Mecánico,4,85.0,340.0
+2025-03-05,Monitor 4K,1,350.0,350.0
+2025-03-06,Mouse Ergonómico,1,45.0,45.0
+2025-03-06,Laptop Pro,3,1200.0,3600.0
+2025-03-06,Disco Externo 1TB,5,75.0,375.0
+2025-03-07,Laptop Pro,1,1200.0,1200.0
+2025-03-07,Laptop Pro,5,1200.0,6000.0
+2025-03-07,Laptop Pro,1,1200.0,1200.0
+2025-03-08,Teclado Mecánico,2,85.0,170.0
+2025-03-08,Disco Externo 1TB,4,75.0,300.0
+2025-03-09,Laptop Pro,1,1200.0,1200.0
+2025-03-09,Mouse Ergonómico,5,45.0,225.0
+2025-03-09,Auriculares Bluetooth,2,120.0,240.0
+2025-03-10,Laptop Pro,1,1200.0,1200.0
+2025-03-10,Teclado Mecánico,3,85.0,255.0
+2025-03-10,Disco Externo 1TB,4,75.0,300.0
+2025-03-11,Teclado Mecánico,1,85.0,85.0
+2025-03-11,Laptop Pro,2,1200.0,2400.0
+2025-03-11,Disco Externo 1TB,3,75.0,225.0
+2025-03-12,Auriculares Bluetooth,2,120.0,240.0
+2025-03-12,Laptop Pro,2,1200.0,2400.0
+2025-03-13,Teclado Mecánico,3,85.0,255.0
+2025-03-13,Monitor 4K,2,350.0,700.0
+2025-03-13,Mouse Ergonómico,3,45.0,135.0
+2025-03-14,Teclado Mecánico,1,85.0,85.0
+2025-03-14,Disco Externo 1TB,3,75.0,225.0
+2025-03-14,Laptop Pro,3,1200.0,3600.0
+2025-03-15,Mouse Ergonómico,4,45.0,180.0
+2025-03-15,Laptop Pro,3,1200.0,3600.0
+2025-03-15,Disco Externo 1TB,3,75.0,225.0
+2025-03-16,Laptop Pro,1,1200.0,1200.0
+2025-03-16,Monitor 4K,4,350.0,1400.0
+2025-03-17,Mouse Ergonómico,5,45.0,225.0
+2025-03-17,Mouse Ergonómico,1,45.0,45.0
+2025-03-17,Disco Externo 1TB,1,75.0,75.0
+2025-03-18,Monitor 4K,5,350.0,1750.0
+2025-03-18,Teclado Mecánico,3,85.0,255.0
+2025-03-18,Laptop Pro,2,1200.0,2400.0
+2025-03-19,Auriculares Bluetooth,4,120.0,480.0
+2025-03-19,Laptop Pro,2,1200.0,2400.0
+2025-03-19,Laptop Pro,5,1200.0,6000.0
+2025-03-20,Teclado Mecánico,1,85.0,85.0
+2025-03-20,Laptop Pro,1,1200.0,1200.0
+2025-03-21,Monitor 4K,4,350.0,1400.0
+2025-03-21,Monitor 4K,1,350.0,350.0
+2025-03-21,Mouse Ergonómico,1,45.0,45.0
+2025-03-22,Disco Externo 1TB,4,75.0,300.0
+2025-03-22,Auriculares Bluetooth,4,120.0,480.0
+2025-03-22,Laptop Pro,5,1200.0,6000.0
+2025-03-23,Laptop Pro,1,1200.0,1200.0
+2025-03-23,Teclado Mecánico,1,85.0,85.0
+2025-03-23,Disco Externo 1TB,5,75.0,375.0
+2025-03-24,Monitor 4K,3,350.0,1050.0
+2025-03-24,Auriculares Bluetooth,3,120.0,360.0
+2025-03-25,Mouse Ergonómico,3,45.0,135.0
+2025-03-25,Monitor 4K,5,350.0,1750.0
+2025-03-25,Disco Externo 1TB,1,75.0,75.0
+2025-03-26,Mouse Ergonómico,5,45.0,225.0
+2025-03-26,Teclado Mecánico,5,85.0,425.0
+2025-03-26,Teclado Mecánico,3,85.0,255.0
+2025-03-27,Laptop Pro,2,1200.0,2400.0
+2025-03-27,Disco Externo 1TB,1,75.0,75.0
+2025-03-27,Auriculares Bluetooth,3,120.0,360.0
+2025-03-28,Mouse Ergonómico,2,45.0,90.0
+2025-03-28,Monitor 4K,2,350.0,700.0
+2025-03-29,Disco Externo 1TB,4,75.0,300.0
+2025-03-29,Disco Externo 1TB,1,75.0,75.0
+2025-03-29,Teclado Mecánico,2,85.0,170.0
+2025-03-30,Laptop Pro,3,1200.0,3600.0
+2025-03-30,Laptop Pro,4,1200.0,4800.0
+2025-03-30,Mouse Ergonómico,1,45.0,45.0
+2025-03-31,Teclado Mecánico,5,85.0,425.0
+2025-03-31,Disco Externo 1TB,3,75.0,225.0
+2025-03-31,Auriculares Bluetooth,2,120.0,240.0
+2025-04-01,Teclado Mecánico,2,85.0,170.0
+2025-04-01,Mouse Ergonómico,3,45.0,135.0
+2025-04-02,Mouse Ergonómico,2,45.0,90.0
+2025-04-02,Teclado Mecánico,4,85.0,340.0
+2025-04-02,Mouse Ergonómico,1,45.0,45.0
+2025-04-03,Teclado Mecánico,4,85.0,340.0
+2025-04-03,Monitor 4K,2,350.0,700.0
+2025-04-03,Teclado Mecánico,5,85.0,425.0
+2025-04-04,Teclado Mecánico,1,85.0,85.0
+2025-04-04,Mouse Ergonómico,1,45.0,45.0
+2025-04-05,Mouse Ergonómico,3,45.0,135.0
+2025-04-05,Laptop Pro,3,1200.0,3600.0
+2025-04-05,Laptop Pro,5,1200.0,6000.0
+2025-04-06,Monitor 4K,1,350.0,350.0
+2025-04-06,Laptop Pro,5,1200.0,6000.0
+2025-04-06,Teclado Mecánico,3,85.0,255.0
+2025-04-07,Mouse Ergonómico,3,45.0,135.0
+2025-04-07,Laptop Pro,1,1200.0,1200.0
+2025-04-07,Laptop Pro,4,1200.0,4800.0
+2025-04-08,Monitor 4K,2,350.0,700.0
+2025-04-08,Disco Externo 1TB,3,75.0,225.0
+2025-04-09,Monitor 4K,3,350.0,1050.0
+2025-04-09,Teclado Mecánico,4,85.0,340.0
+2025-04-09,Mouse Ergonómico,4,45.0,180.0
+2025-04-10,Monitor 4K,5,350.0,1750.0
+2025-04-10,Laptop Pro,5,1200.0,6000.0
+2025-04-10,Mouse Ergonómico,2,45.0,90.0
+2025-04-11,Mouse Ergonómico,2,45.0,90.0
+2025-04-11,Laptop Pro,1,1200.0,1200.0
+2025-04-11,Monitor 4K,5,350.0,1750.0
+2025-04-12,Laptop Pro,3,1200.0,3600.0
+2025-04-12,Disco Externo 1TB,5,75.0,375.0
+2025-04-13,Mouse Ergonómico,3,45.0,135.0
+2025-04-13,Auriculares Bluetooth,4,120.0,480.0
+2025-04-13,Auriculares Bluetooth,5,120.0,600.0
+2025-04-14,Teclado Mecánico,4,85.0,340.0
+2025-04-14,Laptop Pro,2,1200.0,2400.0
+2025-04-14,Laptop Pro,2,1200.0,2400.0
+2025-04-15,Teclado Mecánico,1,85.0,85.0
+2025-04-15,Teclado Mecánico,5,85.0,425.0
+2025-04-15,Teclado Mecánico,4,85.0,340.0
+2025-04-16,Mouse Ergonómico,3,45.0,135.0
+2025-04-16,Disco Externo 1TB,2,75.0,150.0
+2025-04-17,Laptop Pro,2,1200.0,2400.0
+2025-04-17,Mouse Ergonómico,3,45.0,135.0
+2025-04-17,Teclado Mecánico,4,85.0,340.0
+2025-04-18,Laptop Pro,4,1200.0,4800.0
+2025-04-18,Mouse Ergonómico,5,45.0,225.0
+2025-04-18,Disco Externo 1TB,5,75.0,375.0
+2025-04-19,Mouse Ergonómico,1,45.0,45.0
+2025-04-19,Disco Externo 1TB,2,75.0,150.0
+2025-04-19,Teclado Mecánico,5,85.0,425.0
+2025-04-20,Disco Externo 1TB,4,75.0,300.0
+2025-04-20,Laptop Pro,3,1200.0,3600.0
+2025-04-21,Teclado Mecánico,4,85.0,340.0
+2025-04-21,Laptop Pro,2,1200.0,2400.0
+2025-04-21,Auriculares Bluetooth,4,120.0,480.0
+2025-04-22,Monitor 4K,1,350.0,350.0
+2025-04-22,Disco Externo 1TB,2,75.0,150.0
+2025-04-22,Monitor 4K,3,350.0,1050.0
+2025-04-23,Monitor 4K,1,350.0,350.0
+2025-04-23,Disco Externo 1TB,2,75.0,150.0
+2025-04-23,Teclado Mecánico,3,85.0,255.0
+2025-04-24,Auriculares Bluetooth,1,120.0,120.0
+2025-04-24,Laptop Pro,1,1200.0,1200.0
+2025-04-25,Mouse Ergonómico,2,45.0,90.0
+2025-04-25,Laptop Pro,5,1200.0,6000.0
+2025-04-25,Mouse Ergonómico,1,45.0,45.0
+2025-04-26,Laptop Pro,1,1200.0,1200.0
+2025-04-26,Disco Externo 1TB,3,75.0,225.0
+2025-04-26,Auriculares Bluetooth,4,120.0,480.0
+2025-04-27,Mouse Ergonómico,2,45.0,90.0
+2025-04-27,Teclado Mecánico,2,85.0,170.0
+2025-04-27,Laptop Pro,5,1200.0,6000.0
+2025-04-28,Laptop Pro,5,1200.0,6000.0
+2025-04-28,Mouse Ergonómico,2,45.0,90.0
+2025-04-29,Teclado Mecánico,5,85.0,425.0
+2025-04-29,Teclado Mecánico,3,85.0,255.0
+2025-04-29,Disco Externo 1TB,2,75.0,150.0
+2025-04-30,Disco Externo 1TB,5,75.0,375.0
+2025-04-30,Disco Externo 1TB,2,75.0,150.0
+2025-04-30,Disco Externo 1TB,4,75.0,300.0
+2025-05-01,Disco Externo 1TB,1,75.0,75.0
+2025-05-01,Disco Externo 1TB,2,75.0,150.0
+2025-05-01,Auriculares Bluetooth,1,120.0,120.0
+2025-05-02,Teclado Mecánico,5,85.0,425.0
+2025-05-02,Disco Externo 1TB,1,75.0,75.0
+2025-05-03,Teclado Mecánico,2,85.0,170.0
+2025-05-03,Teclado Mecánico,4,85.0,340.0
+2025-05-03,Monitor 4K,5,350.0,1750.0
+2025-05-04,Auriculares Bluetooth,2,120.0,240.0
+2025-05-04,Disco Externo 1TB,5,75.0,375.0
+2025-05-04,Laptop Pro,3,1200.0,3600.0
+2025-05-05,Mouse Ergonómico,1,45.0,45.0
+2025-05-05,Laptop Pro,3,1200.0,3600.0
+2025-05-05,Auriculares Bluetooth,2,120.0,240.0
+2025-05-06,Mouse Ergonómico,4,45.0,180.0
+2025-05-06,Auriculares Bluetooth,5,120.0,600.0
+2025-05-07,Teclado Mecánico,1,85.0,85.0
+2025-05-07,Mouse Ergonómico,5,45.0,225.0
+2025-05-07,Teclado Mecánico,2,85.0,170.0
+2025-05-08,Laptop Pro,5,1200.0,6000.0
+2025-05-08,Laptop Pro,1,1200.0,1200.0
+2025-05-08,Mouse Ergonómico,2,45.0,90.0
+2025-05-09,Mouse Ergonómico,5,45.0,225.0
+2025-05-09,Disco Externo 1TB,4,75.0,300.0
+2025-05-09,Auriculares Bluetooth,2,120.0,240.0
+2025-05-10,Disco Externo 1TB,2,75.0,150.0
+2025-05-10,Auriculares Bluetooth,4,120.0,480.0
+2025-05-11,Disco Externo 1TB,3,75.0,225.0
+2025-05-11,Teclado Mecánico,1,85.0,85.0
+2025-05-11,Mouse Ergonómico,3,45.0,135.0
+2025-05-12,Laptop Pro,5,1200.0,6000.0
+2025-05-12,Auriculares Bluetooth,4,120.0,480.0
+2025-05-12,Auriculares Bluetooth,3,120.0,360.0
+2025-05-13,Laptop Pro,2,1200.0,2400.0
+2025-05-13,Disco Externo 1TB,5,75.0,375.0
+2025-05-13,Auriculares Bluetooth,5,120.0,600.0
+2025-05-14,Teclado Mecánico,3,85.0,255.0
+2025-05-14,Mouse Ergonómico,3,45.0,135.0
+2025-05-15,Laptop Pro,4,1200.0,4800.0
+2025-05-15,Mouse Ergonómico,1,45.0,45.0
+2025-05-15,Auriculares Bluetooth,3,120.0,360.0
+2025-05-16,Auriculares Bluetooth,3,120.0,360.0
+2025-05-16,Laptop Pro,2,1200.0,2400.0
+2025-05-16,Teclado Mecánico,5,85.0,425.0
+2025-05-17,Monitor 4K,1,350.0,350.0
+2025-05-17,Laptop Pro,2,1200.0,2400.0
+2025-05-18,Monitor 4K,4,350.0,1400.0
+2025-05-18,Disco Externo 1TB,4,75.0,300.0
+2025-05-18,Monitor 4K,3,350.0,1050.0
+2025-05-19,Teclado Mecánico,3,85.0,255.0
+2025-05-19,Disco Externo 1TB,4,75.0,300.0
+2025-05-19,Monitor 4K,3,350.0,1050.0
+2025-05-20,Disco Externo 1TB,1,75.0,75.0
+2025-05-20,Monitor 4K,3,350.0,1050.0
+2025-05-20,Teclado Mecánico,5,85.0,425.0
+2025-05-21,Monitor 4K,3,350.0,1050.0
+2025-05-21,Monitor 4K,2,350.0,700.0
+2025-05-22,Monitor 4K,1,350.0,350.0
+2025-05-22,Laptop Pro,2,1200.0,2400.0
+2025-05-22,Laptop Pro,2,1200.0,2400.0
+2025-05-23,Laptop Pro,5,1200.0,6000.0
+2025-05-23,Teclado Mecánico,1,85.0,85.0
+2025-05-23,Disco Externo 1TB,1,75.0,75.0
+2025-05-24,Auriculares Bluetooth,1,120.0,120.0
+2025-05-24,Monitor 4K,1,350.0,350.0
+2025-05-24,Monitor 4K,1,350.0,350.0
+2025-05-25,Teclado Mecánico,5,85.0,425.0
+2025-05-25,Monitor 4K,3,350.0,1050.0
+2025-05-26,Laptop Pro,2,1200.0,2400.0
+2025-05-26,Auriculares Bluetooth,1,120.0,120.0
+2025-05-26,Mouse Ergonómico,3,45.0,135.0
+2025-05-27,Monitor 4K,3,350.0,1050.0
+2025-05-27,Laptop Pro,2,1200.0,2400.0
+2025-05-27,Mouse Ergonómico,5,45.0,225.0
+2025-05-28,Auriculares Bluetooth,4,120.0,480.0
+2025-05-28,Mouse Ergonómico,4,45.0,180.0
+2025-05-28,Laptop Pro,3,1200.0,3600.0
+2025-05-29,Disco Externo 1TB,2,75.0,150.0
+2025-05-29,Disco Externo 1TB,4,75.0,300.0
+2025-05-30,Mouse Ergonómico,3,45.0,135.0
+2025-05-30,Teclado Mecánico,5,85.0,425.0
+2025-05-30,Mouse Ergonómico,4,45.0,180.0
+2025-05-31,Monitor 4K,3,350.0,1050.0
+2025-05-31,Monitor 4K,3,350.0,1050.0
+2025-05-31,Disco Externo 1TB,1,75.0,75.0
+2025-06-01,Teclado Mecánico,5,85.0,425.0
+2025-06-01,Laptop Pro,1,1200.0,1200.0
+2025-06-01,Monitor 4K,2,350.0,700.0
+2025-06-02,Disco Externo 1TB,1,75.0,75.0
+2025-06-02,Auriculares Bluetooth,1,120.0,120.0
+2025-06-03,Disco Externo 1TB,4,75.0,300.0
+2025-06-03,Monitor 4K,3,350.0,1050.0
+2025-06-03,Monitor 4K,5,350.0,1750.0
+2025-06-04,Disco Externo 1TB,1,75.0,75.0
+2025-06-04,Laptop Pro,5,1200.0,6000.0
+2025-06-04,Mouse Ergonómico,1,45.0,45.0
+2025-06-05,Monitor 4K,2,350.0,700.0
+2025-06-05,Disco Externo 1TB,1,75.0,75.0
+2025-06-05,Disco Externo 1TB,4,75.0,300.0
+2025-06-06,Teclado Mecánico,3,85.0,255.0
+2025-06-06,Mouse Ergonómico,2,45.0,90.0
+2025-06-07,Auriculares Bluetooth,1,120.0,120.0
+2025-06-07,Laptop Pro,5,1200.0,6000.0
+2025-06-07,Auriculares Bluetooth,2,120.0,240.0
+2025-06-08,Mouse Ergonómico,2,45.0,90.0
+2025-06-08,Mouse Ergonómico,1,45.0,45.0
+2025-06-08,Mouse Ergonómico,2,45.0,90.0
+2025-06-09,Auriculares Bluetooth,5,120.0,600.0
+2025-06-09,Mouse Ergonómico,2,45.0,90.0
+2025-06-09,Disco Externo 1TB,5,75.0,375.0
+2025-06-10,Auriculares Bluetooth,1,120.0,120.0
+2025-06-10,Mouse Ergonómico,3,45.0,135.0
+2025-06-11,Disco Externo 1TB,2,75.0,150.0
+2025-06-11,Teclado Mecánico,3,85.0,255.0
+2025-06-11,Mouse Ergonómico,5,45.0,225.0
+2025-06-12,Auriculares Bluetooth,2,120.0,240.0
+2025-06-12,Monitor 4K,4,350.0,1400.0
+2025-06-12,Mouse Ergonómico,3,45.0,135.0
+2025-06-13,Monitor 4K,2,350.0,700.0
+2025-06-13,Disco Externo 1TB,3,75.0,225.0
+2025-06-13,Teclado Mecánico,2,85.0,170.0
+2025-06-14,Laptop Pro,1,1200.0,1200.0
+2025-06-14,Teclado Mecánico,3,85.0,255.0
+2025-06-15,Mouse Ergonómico,4,45.0,180.0
+2025-06-15,Monitor 4K,4,350.0,1400.0
+2025-06-15,Monitor 4K,5,350.0,1750.0
+2025-06-16,Auriculares Bluetooth,2,120.0,240.0
+2025-06-16,Monitor 4K,3,350.0,1050.0
+2025-06-16,Auriculares Bluetooth,5,120.0,600.0
+2025-06-17,Disco Externo 1TB,3,75.0,225.0
+2025-06-17,Laptop Pro,2,1200.0,2400.0
+2025-06-17,Mouse Ergonómico,4,45.0,180.0
+2025-06-18,Auriculares Bluetooth,1,120.0,120.0
+2025-06-18,Laptop Pro,4,1200.0,4800.0
+2025-06-19,Monitor 4K,5,350.0,1750.0
+2025-06-19,Monitor 4K,1,350.0,350.0
+2025-06-19,Laptop Pro,5,1200.0,6000.0
+2025-06-20,Monitor 4K,2,350.0,700.0
+2025-06-20,Disco Externo 1TB,1,75.0,75.0
+2025-06-20,Disco Externo 1TB,5,75.0,375.0
+2025-06-21,Laptop Pro,2,1200.0,2400.0
+2025-06-21,Auriculares Bluetooth,4,120.0,480.0
+2025-06-21,Auriculares Bluetooth,2,120.0,240.0
+2025-06-22,Laptop Pro,3,1200.0,3600.0
+2025-06-22,Auriculares Bluetooth,2,120.0,240.0
+2025-06-23,Auriculares Bluetooth,2,120.0,240.0
+2025-06-23,Disco Externo 1TB,3,75.0,225.0
+2025-06-23,Auriculares Bluetooth,5,120.0,600.0
+2025-06-24,Teclado Mecánico,5,85.0,425.0
+2025-06-24,Mouse Ergonómico,2,45.0,90.0
+2025-06-24,Monitor 4K,3,350.0,1050.0
+2025-06-25,Teclado Mecánico,3,85.0,255.0
+2025-06-25,Auriculares Bluetooth,4,120.0,480.0
+2025-06-25,Disco Externo 1TB,5,75.0,375.0
+2025-06-26,Laptop Pro,1,1200.0,1200.0
+2025-06-26,Auriculares Bluetooth,5,120.0,600.0
+2025-06-27,Disco Externo 1TB,5,75.0,375.0
+2025-06-27,Mouse Ergonómico,4,45.0,180.0
+2025-06-27,Auriculares Bluetooth,1,120.0,120.0
+2025-06-28,Laptop Pro,4,1200.0,4800.0
+2025-06-28,Disco Externo 1TB,1,75.0,75.0
+2025-06-28,Disco Externo 1TB,2,75.0,150.0
+2025-06-29,Disco Externo 1TB,1,75.0,75.0
+2025-06-29,Mouse Ergonómico,4,45.0,180.0
+2025-06-29,Auriculares Bluetooth,5,120.0,600.0
+2025-06-30,Mouse Ergonómico,1,45.0,45.0
+2025-06-30,Monitor 4K,1,350.0,350.0
+2025-07-01,Monitor 4K,3,350.0,1050.0
+2025-07-01,Auriculares Bluetooth,5,120.0,600.0
+2025-07-01,Mouse Ergonómico,2,45.0,90.0
+2025-07-02,Laptop Pro,4,1200.0,4800.0
+2025-07-02,Disco Externo 1TB,2,75.0,150.0
+2025-07-02,Disco Externo 1TB,5,75.0,375.0
+2025-07-03,Auriculares Bluetooth,1,120.0,120.0
+2025-07-03,Monitor 4K,1,350.0,350.0
+2025-07-04,Monitor 4K,5,350.0,1750.0
+2025-07-04,Disco Externo 1TB,1,75.0,75.0
+2025-07-04,Auriculares Bluetooth,1,120.0,120.0
+2025-07-05,Mouse Ergonómico,1,45.0,45.0
+2025-07-05,Monitor 4K,4,350.0,1400.0
+2025-07-05,Mouse Ergonómico,4,45.0,180.0
+2025-07-06,Monitor 4K,3,350.0,1050.0
+2025-07-06,Monitor 4K,2,350.0,700.0
+2025-07-06,Teclado Mecánico,5,85.0,425.0
+2025-07-07,Monitor 4K,5,350.0,1750.0
+2025-07-07,Laptop Pro,5,1200.0,6000.0
+2025-07-08,Auriculares Bluetooth,3,120.0,360.0
+2025-07-08,Auriculares Bluetooth,4,120.0,480.0
+2025-07-08,Mouse Ergonómico,3,45.0,135.0
+2025-07-09,Monitor 4K,5,350.0,1750.0
+2025-07-09,Laptop Pro,2,1200.0,2400.0
+2025-07-09,Mouse Ergonómico,1,45.0,45.0
+2025-07-10,Teclado Mecánico,4,85.0,340.0
+2025-07-10,Mouse Ergonómico,4,45.0,180.0
+2025-07-10,Mouse Ergonómico,3,45.0,135.0
+2025-07-11,Monitor 4K,4,350.0,1400.0
+2025-07-11,Teclado Mecánico,5,85.0,425.0
+2025-07-12,Mouse Ergonómico,5,45.0,225.0
+2025-07-12,Laptop Pro,3,1200.0,3600.0
+2025-07-12,Laptop Pro,5,1200.0,6000.0
+2025-07-13,Auriculares Bluetooth,2,120.0,240.0
+2025-07-13,Teclado Mecánico,3,85.0,255.0
+2025-07-13,Teclado Mecánico,2,85.0,170.0
+2025-07-14,Auriculares Bluetooth,1,120.0,120.0
+2025-07-14,Mouse Ergonómico,2,45.0,90.0
+2025-07-14,Teclado Mecánico,1,85.0,85.0
+2025-07-15,Laptop Pro,1,1200.0,1200.0
+2025-07-15,Laptop Pro,2,1200.0,2400.0
+2025-07-16,Monitor 4K,3,350.0,1050.0
+2025-07-16,Teclado Mecánico,5,85.0,425.0
+2025-07-16,Mouse Ergonómico,5,45.0,225.0
+2025-07-17,Auriculares Bluetooth,1,120.0,120.0
+2025-07-17,Auriculares Bluetooth,1,120.0,120.0
+2025-07-17,Mouse Ergonómico,3,45.0,135.0
+2025-07-18,Disco Externo 1TB,4,75.0,300.0
+2025-07-18,Monitor 4K,2,350.0,700.0
+2025-07-18,Auriculares Bluetooth,1,120.0,120.0
+2025-07-19,Teclado Mecánico,5,85.0,425.0
+2025-07-19,Monitor 4K,3,350.0,1050.0
+2025-07-20,Teclado Mecánico,2,85.0,170.0
+2025-07-20,Laptop Pro,3,1200.0,3600.0
+2025-07-20,Monitor 4K,2,350.0,700.0
+2025-07-21,Auriculares Bluetooth,2,120.0,240.0
+2025-07-21,Monitor 4K,1,350.0,350.0
+2025-07-21,Monitor 4K,3,350.0,1050.0
+2025-07-22,Monitor 4K,3,350.0,1050.0
+2025-07-22,Disco Externo 1TB,5,75.0,375.0
+2025-07-22,Monitor 4K,5,350.0,1750.0
+2025-07-23,Teclado Mecánico,1,85.0,85.0
+2025-07-23,Laptop Pro,1,1200.0,1200.0
+2025-07-24,Mouse Ergonómico,4,45.0,180.0
+2025-07-24,Monitor 4K,5,350.0,1750.0
+2025-07-24,Auriculares Bluetooth,2,120.0,240.0
+2025-07-25,Monitor 4K,3,350.0,1050.0
+2025-07-25,Auriculares Bluetooth,1,120.0,120.0
+2025-07-25,Teclado Mecánico,3,85.0,255.0
+2025-07-26,Auriculares Bluetooth,3,120.0,360.0
+2025-07-26,Mouse Ergonómico,4,45.0,180.0
+2025-07-26,Laptop Pro,5,1200.0,6000.0
+2025-07-27,Auriculares Bluetooth,1,120.0,120.0
+2025-07-27,Auriculares Bluetooth,3,120.0,360.0
+2025-07-28,Laptop Pro,1,1200.0,1200.0
+2025-07-28,Mouse Ergonómico,2,45.0,90.0
+2025-07-28,Monitor 4K,4,350.0,1400.0
+2025-07-29,Auriculares Bluetooth,2,120.0,240.0
+2025-07-29,Laptop Pro,1,1200.0,1200.0
+2025-07-29,Teclado Mecánico,1,85.0,85.0
+2025-07-30,Laptop Pro,5,1200.0,6000.0
+2025-07-30,Teclado Mecánico,3,85.0,255.0
+2025-07-30,Mouse Ergonómico,3,45.0,135.0
+2025-07-31,Monitor 4K,2,350.0,700.0
+2025-07-31,Laptop Pro,4,1200.0,4800.0
+2025-08-01,Disco Externo 1TB,3,75.0,225.0
+2025-08-01,Auriculares Bluetooth,5,120.0,600.0
+2025-08-01,Mouse Ergonómico,2,45.0,90.0
+2025-08-02,Laptop Pro,2,1200.0,2400.0
+2025-08-02,Auriculares Bluetooth,5,120.0,600.0
+2025-08-02,Laptop Pro,4,1200.0,4800.0
+2025-08-03,Teclado Mecánico,5,85.0,425.0
+2025-08-03,Laptop Pro,4,1200.0,4800.0
+2025-08-03,Disco Externo 1TB,5,75.0,375.0
+2025-08-04,Laptop Pro,5,1200.0,6000.0
+2025-08-04,Laptop Pro,1,1200.0,1200.0
+2025-08-05,Disco Externo 1TB,2,75.0,150.0
+2025-08-05,Mouse Ergonómico,5,45.0,225.0
+2025-08-05,Laptop Pro,5,1200.0,6000.0
+2025-08-06,Disco Externo 1TB,3,75.0,225.0
+2025-08-06,Auriculares Bluetooth,2,120.0,240.0
+2025-08-06,Teclado Mecánico,3,85.0,255.0
+2025-08-07,Teclado Mecánico,2,85.0,170.0
+2025-08-07,Laptop Pro,3,1200.0,3600.0
+2025-08-07,Mouse Ergonómico,5,45.0,225.0
+2025-08-08,Mouse Ergonómico,5,45.0,225.0
+2025-08-08,Auriculares Bluetooth,1,120.0,120.0
+2025-08-09,Laptop Pro,3,1200.0,3600.0
+2025-08-09,Teclado Mecánico,4,85.0,340.0
+2025-08-09,Mouse Ergonómico,1,45.0,45.0
+2025-08-10,Laptop Pro,3,1200.0,3600.0
+2025-08-10,Mouse Ergonómico,3,45.0,135.0
+2025-08-10,Disco Externo 1TB,1,75.0,75.0
+2025-08-11,Mouse Ergonómico,5,45.0,225.0
+2025-08-11,Teclado Mecánico,3,85.0,255.0
+2025-08-11,Monitor 4K,5,350.0,1750.0
+2025-08-12,Auriculares Bluetooth,1,120.0,120.0
+2025-08-12,Auriculares Bluetooth,5,120.0,600.0
+2025-08-13,Teclado Mecánico,2,85.0,170.0
+2025-08-13,Mouse Ergonómico,4,45.0,180.0
+2025-08-13,Laptop Pro,3,1200.0,3600.0
+2025-08-14,Mouse Ergonómico,4,45.0,180.0
+2025-08-14,Teclado Mecánico,5,85.0,425.0
+2025-08-14,Auriculares Bluetooth,3,120.0,360.0
+2025-08-15,Mouse Ergonómico,5,45.0,225.0
+2025-08-15,Auriculares Bluetooth,2,120.0,240.0
+2025-08-15,Laptop Pro,1,1200.0,1200.0
+2025-08-16,Auriculares Bluetooth,3,120.0,360.0
+2025-08-16,Auriculares Bluetooth,2,120.0,240.0
+2025-08-17,Monitor 4K,2,350.0,700.0
+2025-08-17,Monitor 4K,3,350.0,1050.0
+2025-08-17,Disco Externo 1TB,5,75.0,375.0
+2025-08-18,Monitor 4K,2,350.0,700.0
+2025-08-18,Auriculares Bluetooth,4,120.0,480.0
+2025-08-18,Teclado Mecánico,2,85.0,170.0
+2025-08-19,Auriculares Bluetooth,5,120.0,600.0
+2025-08-19,Teclado Mecánico,5,85.0,425.0
+2025-08-20,Teclado Mecánico,4,85.0,340.0
+2025-08-20,Monitor 4K,2,350.0,700.0
+2025-08-20,Mouse Ergonómico,5,45.0,225.0
+2025-08-21,Laptop Pro,3,1200.0,3600.0
+2025-08-21,Monitor 4K,1,350.0,350.0
+2025-08-21,Monitor 4K,1,350.0,350.0
+2025-08-22,Mouse Ergonómico,1,45.0,45.0
+2025-08-22,Laptop Pro,2,1200.0,2400.0
+2025-08-22,Auriculares Bluetooth,4,120.0,480.0
+2025-08-23,Disco Externo 1TB,5,75.0,375.0
+2025-08-23,Disco Externo 1TB,3,75.0,225.0
+2025-08-24,Auriculares Bluetooth,3,120.0,360.0
+2025-08-24,Monitor 4K,2,350.0,700.0
+2025-08-24,Laptop Pro,1,1200.0,1200.0
+2025-08-25,Monitor 4K,2,350.0,700.0
+2025-08-25,Teclado Mecánico,4,85.0,340.0
+2025-08-25,Monitor 4K,4,350.0,1400.0
+2025-08-26,Monitor 4K,5,350.0,1750.0
+2025-08-26,Auriculares Bluetooth,5,120.0,600.0
+2025-08-26,Auriculares Bluetooth,4,120.0,480.0
+2025-08-27,Auriculares Bluetooth,4,120.0,480.0
+2025-08-27,Disco Externo 1TB,4,75.0,300.0
+2025-08-28,Teclado Mecánico,2,85.0,170.0
+2025-08-28,Auriculares Bluetooth,4,120.0,480.0
+2025-08-28,Laptop Pro,3,1200.0,3600.0
+2025-08-29,Disco Externo 1TB,1,75.0,75.0
+2025-08-29,Mouse Ergonómico,4,45.0,180.0
+2025-08-29,Laptop Pro,1,1200.0,1200.0
+2025-08-30,Laptop Pro,2,1200.0,2400.0
+2025-08-30,Auriculares Bluetooth,1,120.0,120.0
+2025-08-30,Mouse Ergonómico,2,45.0,90.0
+2025-08-31,Mouse Ergonómico,3,45.0,135.0
+2025-08-31,Disco Externo 1TB,2,75.0,150.0
+2025-09-01,Mouse Ergonómico,2,45.0,90.0
+2025-09-01,Teclado Mecánico,5,85.0,425.0
+2025-09-01,Auriculares Bluetooth,4,120.0,480.0
+2025-09-02,Mouse Ergonómico,4,45.0,180.0
+2025-09-02,Disco Externo 1TB,3,75.0,225.0
+2025-09-02,Teclado Mecánico,3,85.0,255.0
+2025-09-03,Monitor 4K,4,350.0,1400.0
+2025-09-03,Monitor 4K,5,350.0,1750.0
+2025-09-03,Teclado Mecánico,4,85.0,340.0
+2025-09-04,Disco Externo 1TB,5,75.0,375.0
+2025-09-04,Teclado Mecánico,3,85.0,255.0
+2025-09-05,Auriculares Bluetooth,1,120.0,120.0
+2025-09-05,Auriculares Bluetooth,3,120.0,360.0
+2025-09-05,Monitor 4K,3,350.0,1050.0
+2025-09-06,Mouse Ergonómico,2,45.0,90.0
+2025-09-06,Disco Externo 1TB,2,75.0,150.0
+2025-09-06,Monitor 4K,2,350.0,700.0
+2025-09-07,Mouse Ergonómico,2,45.0,90.0
+2025-09-07,Mouse Ergonómico,5,45.0,225.0
+2025-09-07,Auriculares Bluetooth,4,120.0,480.0
+2025-09-08,Laptop Pro,1,1200.0,1200.0
+2025-09-08,Laptop Pro,3,1200.0,3600.0
+2025-09-09,Teclado Mecánico,5,85.0,425.0
+2025-09-09,Auriculares Bluetooth,1,120.0,120.0
+2025-09-09,Mouse Ergonómico,5,45.0,225.0
+2025-09-10,Disco Externo 1TB,5,75.0,375.0
+2025-09-10,Laptop Pro,3,1200.0,3600.0
+2025-09-10,Mouse Ergonómico,4,45.0,180.0
+2025-09-11,Laptop Pro,2,1200.0,2400.0
+2025-09-11,Laptop Pro,4,1200.0,4800.0
+2025-09-11,Laptop Pro,3,1200.0,3600.0
+2025-09-12,Disco Externo 1TB,3,75.0,225.0
+2025-09-12,Auriculares Bluetooth,3,120.0,360.0
+2025-09-13,Disco Externo 1TB,1,75.0,75.0
+2025-09-13,Monitor 4K,4,350.0,1400.0
+2025-09-13,Mouse Ergonómico,4,45.0,180.0
+2025-09-14,Auriculares Bluetooth,5,120.0,600.0
+2025-09-14,Auriculares Bluetooth,5,120.0,600.0
+2025-09-14,Auriculares Bluetooth,5,120.0,600.0
+2025-09-15,Auriculares Bluetooth,3,120.0,360.0
+2025-09-15,Disco Externo 1TB,4,75.0,300.0
+2025-09-15,Auriculares Bluetooth,3,120.0,360.0
+2025-09-16,Teclado Mecánico,1,85.0,85.0
+2025-09-16,Mouse Ergonómico,5,45.0,225.0
+2025-09-17,Auriculares Bluetooth,3,120.0,360.0
+2025-09-17,Mouse Ergonómico,3,45.0,135.0
+2025-09-17,Teclado Mecánico,1,85.0,85.0
+2025-09-18,Teclado Mecánico,2,85.0,170.0
+2025-09-18,Mouse Ergonómico,4,45.0,180.0
+2025-09-18,Laptop Pro,2,1200.0,2400.0
+2025-09-19,Monitor 4K,5,350.0,1750.0
+2025-09-19,Laptop Pro,3,1200.0,3600.0
+2025-09-19,Laptop Pro,1,1200.0,1200.0
+2025-09-20,Disco Externo 1TB,1,75.0,75.0
+2025-09-20,Laptop Pro,4,1200.0,4800.0
+2025-09-21,Auriculares Bluetooth,2,120.0,240.0
+2025-09-21,Disco Externo 1TB,4,75.0,300.0
+2025-09-21,Disco Externo 1TB,3,75.0,225.0
+2025-09-22,Teclado Mecánico,4,85.0,340.0
+2025-09-22,Laptop Pro,1,1200.0,1200.0
+2025-09-22,Teclado Mecánico,1,85.0,85.0
+2025-09-23,Mouse Ergonómico,5,45.0,225.0
+2025-09-23,Monitor 4K,5,350.0,1750.0
+2025-09-23,Disco Externo 1TB,3,75.0,225.0
+2025-09-24,Mouse Ergonómico,2,45.0,90.0
+2025-09-24,Mouse Ergonómico,4,45.0,180.0
+2025-09-25,Auriculares Bluetooth,3,120.0,360.0
+2025-09-25,Monitor 4K,5,350.0,1750.0
+2025-09-25,Mouse Ergonómico,4,45.0,180.0
+2025-09-26,Mouse Ergonómico,5,45.0,225.0
+2025-09-26,Monitor 4K,4,350.0,1400.0
+2025-09-26,Monitor 4K,2,350.0,700.0
+2025-09-27,Mouse Ergonómico,3,45.0,135.0
+2025-09-27,Monitor 4K,4,350.0,1400.0
+2025-09-27,Mouse Ergonómico,1,45.0,45.0
+2025-09-28,Mouse Ergonómico,1,45.0,45.0
+2025-09-28,Auriculares Bluetooth,4,120.0,480.0
+2025-09-29,Laptop Pro,4,1200.0,4800.0
+2025-09-29,Mouse Ergonómico,4,45.0,180.0
+2025-09-29,Teclado Mecánico,1,85.0,85.0
+2025-09-30,Disco Externo 1TB,1,75.0,75.0
+2025-09-30,Laptop Pro,4,1200.0,4800.0
+2025-09-30,Laptop Pro,5,1200.0,6000.0
+2025-10-01,Laptop Pro,5,1200.0,6000.0
+2025-10-01,Auriculares Bluetooth,2,120.0,240.0
+2025-10-02,Mouse Ergonómico,3,45.0,135.0
+2025-10-02,Auriculares Bluetooth,5,120.0,600.0
+2025-10-02,Mouse Ergonómico,1,45.0,45.0
+2025-10-03,Auriculares Bluetooth,5,120.0,600.0
+2025-10-03,Auriculares Bluetooth,2,120.0,240.0
+2025-10-03,Disco Externo 1TB,2,75.0,150.0
+2025-10-04,Teclado Mecánico,3,85.0,255.0
+2025-10-04,Auriculares Bluetooth,5,120.0,600.0
+2025-10-04,Disco Externo 1TB,1,75.0,75.0
+2025-10-05,Monitor 4K,1,350.0,350.0
+2025-10-05,Teclado Mecánico,4,85.0,340.0
+2025-10-06,Auriculares Bluetooth,1,120.0,120.0
+2025-10-06,Laptop Pro,3,1200.0,3600.0
+2025-10-06,Monitor 4K,3,350.0,1050.0
+2025-10-07,Monitor 4K,1,350.0,350.0
+2025-10-07,Disco Externo 1TB,1,75.0,75.0
+2025-10-07,Monitor 4K,4,350.0,1400.0
+2025-10-08,Teclado Mecánico,1,85.0,85.0
+2025-10-08,Auriculares Bluetooth,4,120.0,480.0
+2025-10-08,Auriculares Bluetooth,4,120.0,480.0
+2025-10-09,Laptop Pro,1,1200.0,1200.0
+2025-10-09,Disco Externo 1TB,2,75.0,150.0
+2025-10-10,Laptop Pro,2,1200.0,2400.0
+2025-10-10,Monitor 4K,4,350.0,1400.0
+2025-10-10,Laptop Pro,1,1200.0,1200.0
+2025-10-11,Teclado Mecánico,2,85.0,170.0
+2025-10-11,Auriculares Bluetooth,1,120.0,120.0
+2025-10-11,Monitor 4K,1,350.0,350.0
+2025-10-12,Laptop Pro,1,1200.0,1200.0
+2025-10-12,Disco Externo 1TB,5,75.0,375.0
+2025-10-12,Teclado Mecánico,1,85.0,85.0
+2025-10-13,Teclado Mecánico,5,85.0,425.0
+2025-10-13,Laptop Pro,4,1200.0,4800.0
+2025-10-14,Auriculares Bluetooth,2,120.0,240.0
+2025-10-14,Laptop Pro,2,1200.0,2400.0
+2025-10-14,Monitor 4K,2,350.0,700.0
+2025-10-15,Laptop Pro,2,1200.0,2400.0
+2025-10-15,Teclado Mecánico,2,85.0,170.0
+2025-10-15,Laptop Pro,2,1200.0,2400.0
+2025-10-16,Auriculares Bluetooth,2,120.0,240.0
+2025-10-16,Disco Externo 1TB,4,75.0,300.0
+2025-10-16,Mouse Ergonómico,1,45.0,45.0
+2025-10-17,Laptop Pro,3,1200.0,3600.0
+2025-10-17,Auriculares Bluetooth,5,120.0,600.0
+2025-10-18,Auriculares Bluetooth,3,120.0,360.0
+2025-10-18,Disco Externo 1TB,3,75.0,225.0
+2025-10-18,Teclado Mecánico,1,85.0,85.0
+2025-10-19,Auriculares Bluetooth,1,120.0,120.0
+2025-10-19,Auriculares Bluetooth,1,120.0,120.0
+2025-10-19,Auriculares Bluetooth,2,120.0,240.0
+2025-10-20,Auriculares Bluetooth,4,120.0,480.0
+2025-10-20,Monitor 4K,2,350.0,700.0
+2025-10-20,Monitor 4K,4,350.0,1400.0
+2025-10-21,Teclado Mecánico,4,85.0,340.0
+2025-10-21,Laptop Pro,3,1200.0,3600.0
+2025-10-22,Auriculares Bluetooth,3,120.0,360.0
+2025-10-22,Disco Externo 1TB,4,75.0,300.0
+2025-10-22,Laptop Pro,4,1200.0,4800.0
+2025-10-23,Disco Externo 1TB,2,75.0,150.0
+2025-10-23,Laptop Pro,2,1200.0,2400.0
+2025-10-23,Teclado Mecánico,3,85.0,255.0
+2025-10-24,Auriculares Bluetooth,1,120.0,120.0
+2025-10-24,Auriculares Bluetooth,4,120.0,480.0
+2025-10-24,Mouse Ergonómico,2,45.0,90.0
+2025-10-25,Disco Externo 1TB,3,75.0,225.0
+2025-10-25,Laptop Pro,2,1200.0,2400.0
+2025-10-26,Laptop Pro,4,1200.0,4800.0
+2025-10-26,Monitor 4K,4,350.0,1400.0
+2025-10-26,Mouse Ergonómico,5,45.0,225.0
+2025-10-27,Monitor 4K,1,350.0,350.0
+2025-10-27,Monitor 4K,5,350.0,1750.0
+2025-10-27,Monitor 4K,3,350.0,1050.0
+2025-10-28,Disco Externo 1TB,2,75.0,150.0
+2025-10-28,Disco Externo 1TB,3,75.0,225.0
+2025-10-28,Teclado Mecánico,4,85.0,340.0
+2025-10-29,Teclado Mecánico,5,85.0,425.0
+2025-10-29,Monitor 4K,5,350.0,1750.0
+2025-10-30,Mouse Ergonómico,5,45.0,225.0
+2025-10-30,Laptop Pro,3,1200.0,3600.0
+2025-10-30,Disco Externo 1TB,4,75.0,300.0
+2025-10-31,Mouse Ergonómico,2,45.0,90.0
+2025-10-31,Auriculares Bluetooth,2,120.0,240.0
+2025-10-31,Disco Externo 1TB,3,75.0,225.0
+2025-11-01,Disco Externo 1TB,5,75.0,375.0
+2025-11-01,Teclado Mecánico,1,85.0,85.0
+2025-11-01,Laptop Pro,3,1200.0,3600.0
+2025-11-02,Laptop Pro,3,1200.0,3600.0
+2025-11-02,Auriculares Bluetooth,4,120.0,480.0
+2025-11-03,Auriculares Bluetooth,2,120.0,240.0
+2025-11-03,Disco Externo 1TB,3,75.0,225.0
+2025-11-03,Monitor 4K,3,350.0,1050.0
+2025-11-04,Teclado Mecánico,5,85.0,425.0
+2025-11-04,Teclado Mecánico,5,85.0,425.0
+2025-11-04,Disco Externo 1TB,1,75.0,75.0
+2025-11-05,Mouse Ergonómico,4,45.0,180.0
+2025-11-05,Monitor 4K,1,350.0,350.0
+2025-11-05,Disco Externo 1TB,5,75.0,375.0
+2025-11-06,Monitor 4K,2,350.0,700.0
+2025-11-06,Monitor 4K,5,350.0,1750.0
+2025-11-07,Monitor 4K,4,350.0,1400.0
+2025-11-07,Disco Externo 1TB,5,75.0,375.0
+2025-11-07,Teclado Mecánico,4,85.0,340.0
+2025-11-08,Teclado Mecánico,4,85.0,340.0
+2025-11-08,Monitor 4K,4,350.0,1400.0
+2025-11-08,Mouse Ergonómico,4,45.0,180.0
+2025-11-09,Laptop Pro,4,1200.0,4800.0
+2025-11-09,Disco Externo 1TB,2,75.0,150.0
+2025-11-09,Laptop Pro,1,1200.0,1200.0
+2025-11-10,Mouse Ergonómico,3,45.0,135.0
+2025-11-10,Disco Externo 1TB,1,75.0,75.0
+2025-11-11,Monitor 4K,4,350.0,1400.0
+2025-11-11,Teclado Mecánico,2,85.0,170.0
+2025-11-11,Laptop Pro,5,1200.0,6000.0
+2025-11-12,Auriculares Bluetooth,2,120.0,240.0
+2025-11-12,Auriculares Bluetooth,4,120.0,480.0
+2025-11-12,Mouse Ergonómico,2,45.0,90.0
+2025-11-13,Monitor 4K,2,350.0,700.0
+2025-11-13,Laptop Pro,4,1200.0,4800.0
+2025-11-13,Monitor 4K,2,350.0,700.0
+2025-11-14,Laptop Pro,3,1200.0,3600.0
+2025-11-14,Mouse Ergonómico,3,45.0,135.0
+2025-11-15,Mouse Ergonómico,2,45.0,90.0
+2025-11-15,Auriculares Bluetooth,5,120.0,600.0
+2025-11-15,Monitor 4K,4,350.0,1400.0
+2025-11-16,Disco Externo 1TB,3,75.0,225.0
+2025-11-16,Auriculares Bluetooth,5,120.0,600.0
+2025-11-16,Monitor 4K,2,350.0,700.0
+2025-11-17,Auriculares Bluetooth,5,120.0,600.0
+2025-11-17,Disco Externo 1TB,1,75.0,75.0
+2025-11-18,Teclado Mecánico,3,85.0,255.0
+2025-11-18,Teclado Mecánico,2,85.0,170.0
+2025-11-18,Teclado Mecánico,4,85.0,340.0
+2025-11-19,Teclado Mecánico,2,85.0,170.0
+2025-11-19,Laptop Pro,4,1200.0,4800.0
+2025-11-19,Teclado Mecánico,2,85.0,170.0
+2025-11-20,Disco Externo 1TB,5,75.0,375.0
+2025-11-20,Mouse Ergonómico,5,45.0,225.0
+2025-11-20,Mouse Ergonómico,5,45.0,225.0
+2025-11-21,Laptop Pro,1,1200.0,1200.0
+2025-11-21,Teclado Mecánico,4,85.0,340.0
+2025-11-22,Teclado Mecánico,5,85.0,425.0
+2025-11-22,Teclado Mecánico,1,85.0,85.0
+2025-11-22,Auriculares Bluetooth,4,120.0,480.0
+2025-11-23,Monitor 4K,2,350.0,700.0
+2025-11-23,Auriculares Bluetooth,1,120.0,120.0
+2025-11-23,Monitor 4K,3,350.0,1050.0
+2025-11-24,Teclado Mecánico,1,85.0,85.0
+2025-11-24,Teclado Mecánico,1,85.0,85.0
+2025-11-24,Auriculares Bluetooth,4,120.0,480.0
+2025-11-25,Auriculares Bluetooth,2,120.0,240.0
+2025-11-25,Monitor 4K,3,350.0,1050.0
+2025-11-26,Mouse Ergonómico,5,45.0,225.0
+2025-11-26,Monitor 4K,5,350.0,1750.0
+2025-11-26,Auriculares Bluetooth,1,120.0,120.0
+2025-11-27,Disco Externo 1TB,4,75.0,300.0
+2025-11-27,Auriculares Bluetooth,4,120.0,480.0
+2025-11-27,Disco Externo 1TB,5,75.0,375.0
+2025-11-28,Laptop Pro,3,1200.0,3600.0
+2025-11-28,Auriculares Bluetooth,2,120.0,240.0
+2025-11-28,Laptop Pro,3,1200.0,3600.0
+2025-11-29,Mouse Ergonómico,2,45.0,90.0
+2025-11-29,Monitor 4K,5,350.0,1750.0
+2025-11-30,Disco Externo 1TB,2,75.0,150.0
+2025-11-30,Monitor 4K,4,350.0,1400.0
+2025-11-30,Laptop Pro,1,1200.0,1200.0
+2025-12-01,Disco Externo 1TB,1,75.0,75.0
+2025-12-01,Monitor 4K,5,350.0,1750.0
+2025-12-01,Auriculares Bluetooth,4,120.0,480.0
+2025-12-02,Teclado Mecánico,3,85.0,255.0
+2025-12-02,Laptop Pro,4,1200.0,4800.0
+2025-12-02,Monitor 4K,1,350.0,350.0
+2025-12-03,Laptop Pro,1,1200.0,1200.0
+2025-12-03,Laptop Pro,4,1200.0,4800.0
+2025-12-04,Disco Externo 1TB,4,75.0,300.0
+2025-12-04,Disco Externo 1TB,1,75.0,75.0
+2025-12-04,Teclado Mecánico,3,85.0,255.0
+2025-12-05,Auriculares Bluetooth,5,120.0,600.0
+2025-12-05,Laptop Pro,5,1200.0,6000.0
+2025-12-05,Monitor 4K,4,350.0,1400.0
+2025-12-06,Mouse Ergonómico,5,45.0,225.0
+2025-12-06,Laptop Pro,1,1200.0,1200.0
+2025-12-06,Laptop Pro,1,1200.0,1200.0
+2025-12-07,Teclado Mecánico,4,85.0,340.0
+2025-12-07,Auriculares Bluetooth,4,120.0,480.0
+2025-12-08,Mouse Ergonómico,4,45.0,180.0
+2025-12-08,Disco Externo 1TB,3,75.0,225.0
+2025-12-08,Disco Externo 1TB,5,75.0,375.0
+2025-12-09,Monitor 4K,4,350.0,1400.0
+2025-12-09,Mouse Ergonómico,2,45.0,90.0
+2025-12-09,Disco Externo 1TB,2,75.0,150.0
+2025-12-10,Monitor 4K,1,350.0,350.0
+2025-12-10,Auriculares Bluetooth,5,120.0,600.0
+2025-12-10,Monitor 4K,4,350.0,1400.0
+2025-12-11,Disco Externo 1TB,2,75.0,150.0
+2025-12-11,Teclado Mecánico,5,85.0,425.0
+2025-12-12,Teclado Mecánico,1,85.0,85.0
+2025-12-12,Teclado Mecánico,3,85.0,255.0
+2025-12-12,Disco Externo 1TB,5,75.0,375.0
+2025-12-13,Teclado Mecánico,5,85.0,425.0
+2025-12-13,Mouse Ergonómico,3,45.0,135.0
+2025-12-13,Auriculares Bluetooth,5,120.0,600.0
+2025-12-14,Monitor 4K,1,350.0,350.0
+2025-12-14,Monitor 4K,1,350.0,350.0
+2025-12-14,Disco Externo 1TB,3,75.0,225.0
+2025-12-15,Teclado Mecánico,4,85.0,340.0
+2025-12-15,Teclado Mecánico,2,85.0,170.0
+2025-12-16,Laptop Pro,4,1200.0,4800.0
+2025-12-16,Auriculares Bluetooth,5,120.0,600.0
+2025-12-16,Mouse Ergonómico,2,45.0,90.0
+2025-12-17,Monitor 4K,3,350.0,1050.0
+2025-12-17,Laptop Pro,3,1200.0,3600.0
+2025-12-17,Laptop Pro,2,1200.0,2400.0
+2025-12-18,Disco Externo 1TB,1,75.0,75.0
+2025-12-18,Monitor 4K,2,350.0,700.0
+2025-12-18,Disco Externo 1TB,5,75.0,375.0
+2025-12-19,Mouse Ergonómico,1,45.0,45.0
+2025-12-19,Laptop Pro,3,1200.0,3600.0
+2025-12-20,Laptop Pro,2,1200.0,2400.0
+2025-12-20,Auriculares Bluetooth,4,120.0,480.0
+2025-12-20,Mouse Ergonómico,4,45.0,180.0
+2025-12-21,Laptop Pro,5,1200.0,6000.0
+2025-12-21,Mouse Ergonómico,4,45.0,180.0
+2025-12-21,Monitor 4K,2,350.0,700.0
+2025-12-22,Teclado Mecánico,2,85.0,170.0
+2025-12-22,Laptop Pro,4,1200.0,4800.0
+2025-12-22,Auriculares Bluetooth,2,120.0,240.0
+2025-12-23,Monitor 4K,5,350.0,1750.0
+2025-12-23,Mouse Ergonómico,1,45.0,45.0
+2025-12-24,Disco Externo 1TB,5,75.0,375.0
+2025-12-24,Monitor 4K,5,350.0,1750.0
+2025-12-24,Laptop Pro,2,1200.0,2400.0
+2025-12-25,Mouse Ergonómico,1,45.0,45.0
+2025-12-25,Teclado Mecánico,2,85.0,170.0
+2025-12-25,Monitor 4K,3,350.0,1050.0
+2025-12-26,Laptop Pro,2,1200.0,2400.0
+2025-12-26,Auriculares Bluetooth,2,120.0,240.0
+2025-12-26,Disco Externo 1TB,2,75.0,150.0
+2025-12-27,Mouse Ergonómico,1,45.0,45.0
+2025-12-27,Monitor 4K,2,350.0,700.0
+2025-12-28,Monitor 4K,1,350.0,350.0
+2025-12-28,Teclado Mecánico,4,85.0,340.0
+2025-12-28,Teclado Mecánico,3,85.0,255.0
+2025-12-29,Auriculares Bluetooth,1,120.0,120.0
+2025-12-29,Disco Externo 1TB,4,75.0,300.0
+2025-12-29,Auriculares Bluetooth,1,120.0,120.0
+2025-12-30,Laptop Pro,1,1200.0,1200.0
+2025-12-30,Laptop Pro,3,1200.0,3600.0
+2025-12-31,Auriculares Bluetooth,5,120.0,600.0

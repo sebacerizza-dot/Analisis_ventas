@@ -20,7 +20,7 @@ def find_top_selling_product(file_path, output_file_path):
                 top_product_df = df.groupby('producto')['cantidad'].sum().reset_index()
                 most_sold_product = top_product_df.loc[top_product_df['cantidad'].idxmax()]
                 
-                print(f"El producto más vendido en 2025 es '{most_sold_product['producto']}'.")
+                print(f"El producto más vendido en 2025 es '{most_sold_product['producto']}' con {int(most_sold_product['cantidad'])} unidades vendidas.")
             else:
                 print("Error: 'producto' or 'cantidad' column not found in the CSV file. Please ensure these columns exist.")
         except FileNotFoundError:

@@ -1,1 +1,13 @@
-An error occurred: unsupported locale setting
+Facturación mensual para 2025:
+  Enero: 54145.00
+  Febrero: 80220.00
+  Marzo: 81250.00
+  Abril: 91375.00
+  Mayo: 78555.00
+  Junio: 67665.00
+  Julio: 85025.00
+  Agosto: 81375.00
+  Septiembre: 77210.00
+  Octubre: 80635.00
+  Noviembre: 75285.00
+  Diciembre: 84930.00

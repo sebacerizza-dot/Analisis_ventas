@@ -18,8 +18,15 @@ def calculate_monthly_billing(file_path, output_file_path):
             # Ensure 'fecha' and 'precio_total' columns exist
             if 'fecha' in df.columns and 'precio_total' in df.columns:
                 df['fecha'] = pd.to_datetime(df['fecha'])
-                df['mes'] = df['fecha'].dt.month_name(locale='es_ES') # For Spanish month names
-                
+                # ❌ Borrá esta línea
+                #df['mes'] = df['fecha'].dt.month_name(locale='es_ES') # For Spanish month names
+                # ✅ Reemplazala por estas
+                MESES_ES = {
+                    1:'Enero', 2:'Febrero', 3:'Marzo', 4:'Abril',
+                    5:'Mayo', 6:'Junio', 7:'Julio', 8:'Agosto',
+                    9:'Septiembre', 10:'Octubre', 11:'Noviembre', 12:'Diciembre'
+                }
+                df['mes'] = df['fecha'].dt.month.map(MESES_ES)
                 monthly_billing = df.groupby('mes')['precio_total'].sum().reset_index()
                 
                 # Define a custom order for months

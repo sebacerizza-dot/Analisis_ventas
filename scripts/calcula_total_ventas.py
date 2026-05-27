@@ -16,7 +16,7 @@ def calculate_total_sales(file_path, output_file_path):
             df = pd.read_csv(file_path)
             if 'precio_total' in df.columns:
                 total_sales = df['precio_total'].sum()
-                print(f'Total de ventas 2025: {total_sales:.2f}')
+                print(f'Total de ventas 2025: ${total_sales:.2f}')
             else:
                 print("Error: 'precio_total' column not found in the CSV file.")
         except FileNotFoundError:
